@@ -1,5 +1,13 @@
 # random-ball-movement
 
-1. Create an HTML file with a canvas element on which the ball will be drawn.
-2. Use JavaScript to create the ball as a shape (e.g. a circle) on the canvas.
-3. Use JavaScript to move the ball across the canvas, bouncing it off the edges when it reaches them.
+Elevate the animation by enabling user input for modifying the ball's movement, incorporating elements like keyboard and mouse controls, as well as introducing obstacles or targets to enhance interactivity.
+
+How to run the code:
+
+Step1:Save the HTML file with a .html extension.
+
+Step2:Click the "Go Live" button to open a new browser window displaying the Bouncing_Ball animation.
+
+Future improvement:
+
+consider integrating user interaction like click-and-drag functionality, customizable ball properties, and physics-based interactions, such as ball collisions, for a more engaging and interactive animation.
